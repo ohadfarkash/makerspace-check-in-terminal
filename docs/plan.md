@@ -1,4 +1,4 @@
-# Project Planner
+# Project Plan
 
 #### Objectives
 The goal of this project is to use existing resources from SplatSpace. Ideally nothing should be purchased for the project, unless it is very specific and completely repurposed (ie. things from scrap-exchange).
